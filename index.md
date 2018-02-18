@@ -78,7 +78,7 @@ def getAccuracy(testSet, predictions):
     if testSet[x][-1] == predictions[x]:
       correct += 1
   return (correct/float(len(testSet))) * 100.0
-``` 
+```
 
 ```python
 def main():
@@ -104,4 +104,4 @@ main()
 
 ```
 
-[>> Next](another-page).
+[>> Next](./page/1).
