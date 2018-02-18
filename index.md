@@ -20,7 +20,9 @@ import csv
 import random
 import math
 import operator
+```
 
+```python
 def loadDataset(filename, split, trainingSet=[] , testSet=[]):
   with open(filename, 'rb') as csvfile:
       lines = csv.reader(csvfile)
@@ -33,13 +35,17 @@ def loadDataset(filename, split, trainingSet=[] , testSet=[]):
           else:
               testSet.append(dataset[x])
 
+```
 
+```python
 def euclideanDistance(instance1, instance2, length):
   distance = 0
   for x in range(length):
     distance += pow((instance1[x] - instance2[x]), 2)
   return math.sqrt(distance)
+```
 
+```python
 def getNeighbors(trainingSet, testInstance, k):
   distances = []
   length = len(testInstance)-1
@@ -51,7 +57,9 @@ def getNeighbors(trainingSet, testInstance, k):
   for x in range(k):
     neighbors.append(distances[x][0])
   return neighbors
+```
 
+```python
 def getResponse(neighbors):
   classVotes = {}
   for x in range(len(neighbors)):
@@ -62,14 +70,18 @@ def getResponse(neighbors):
       classVotes[response] = 1
   sortedVotes = sorted(classVotes.iteritems(), key=operator.itemgetter(1), reverse=True)
   return sortedVotes[0][0]
+```
 
+```python
 def getAccuracy(testSet, predictions):
   correct = 0
   for x in range(len(testSet)):
     if testSet[x][-1] == predictions[x]:
       correct += 1
   return (correct/float(len(testSet))) * 100.0
-  
+``` 
+
+```python
 def main():
   # prepare data
   trainingSet=[]
