@@ -2,7 +2,6 @@
 layout: home_layout
 ---
 
-[Link to another page](another-page).
 ### [](#header-2)What is k-Nearest Neighbors
 
 The model for kNN is the entire training dataset. When a prediction is required for a unseen data instance, the kNN algorithm will search through the training dataset for the k-most similar instances. The prediction attribute of the most similar instances is summarized and returned as the prediction for the unseen instance.
@@ -105,3 +104,4 @@ main()
 
 ```
 
+[>> Next](another-page).
