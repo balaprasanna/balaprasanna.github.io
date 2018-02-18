@@ -22,6 +22,18 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### [](#header-3)Header 3
 
+```python
+// Python code with syntax highlighting.
+
+from __future__ import print_function
+
+import tensorflow as tf
+
+hello = tf.constant('Hello, TensorFlow!')
+sess = tf.Session()
+print(sess.run(hello))
+```
+
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
