@@ -17,7 +17,7 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
-          {% if site.fb || site.twitter %}
+          {% if site.fb and site.twitter %}
             <a href="{{ site.fb }}" class="btn">Facebook</a>
             <a href="{{ site.twitter }}" class="btn">Twitter</a>
           {% endif %}
