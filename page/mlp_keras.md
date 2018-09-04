@@ -13,13 +13,11 @@ In the case of regression problems, the average of the predicted attribute may b
 
 ### [](#header-3)MLP Simple Implementation using Keras
 
-Import keras.
-   
+Import keras
 ```python
 
 from __future__ import print_function
 import matplotlib.pyplot as plt
-
 import keras
 from keras.datasets import mnist
 from keras.models import Sequential
