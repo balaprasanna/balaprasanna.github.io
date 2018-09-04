@@ -36,3 +36,19 @@ Explore the shape of dataset
 print (x_train.shape)
 # (60000, 28, 28)
 ```
+
+Explore some random images in dataset
+
+```python
+def show_img(img,y):
+    """ Util: to show an image """
+    plt.clf()
+    print(y)
+    plt.imshow(img)
+
+index = 2 # a random image from dataset
+show_img(x_train[index], y_train[index])
+```
+Output:
+![digit](./assets/images/digit.png)
+
