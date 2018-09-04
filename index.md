@@ -7,6 +7,6 @@ layout: home_layout
 ##### Testing...
 
 1.  Introduction to k-nearest neighbors algorithm [KNN](./page/knn)
-2.  Build a simple Multi Layer Perceptron in Keras [MLP in Keras python](./page/mpl_keras)
+2.  Build a simple Multi Layer Perceptron in Keras [MLP in Keras python](./page/mlp_keras)
 
 [>> Next](#).
