@@ -9,7 +9,7 @@ Multilayer perceptrons are sometimes colloquially referred to as **vanilla** neu
 
 In the case of regression problems, the average of the predicted attribute may be returned. In the case of classification, the most prevalent class may be returned.
 
-![Img](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif | width=400)
+![Img](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif){:height="36px" width="36px"}
 
 ### [](#header-3)MLP Simple Implementation using Keras
 
