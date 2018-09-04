@@ -13,7 +13,8 @@ In the case of regression problems, the average of the predicted attribute may b
 
 ### [](#header-3)MLP Simple Implementation using Keras
 
-1. Import keras.
+Import keras.
+   
 ```python
 
 from __future__ import print_function
@@ -26,13 +27,13 @@ from keras.layers import Dense, Dropout
 from keras.optimizers import RMSprop, SGD
 ```
 
-2. Load dataset
+Load dataset
 ```python
 from keras.datasets import mnist
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
 ```
 
-3. Explore the shape of dataset
+Explore the shape of dataset
 ```python
 print (x_train.shape)
 # (60000, 28, 28)
