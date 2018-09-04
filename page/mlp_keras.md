@@ -50,5 +50,5 @@ index = 2 # a random image from dataset
 show_img(x_train[index], y_train[index])
 ```
 Output:
-![digit](./assets/images/digit.png)
+![digit](../assets/images/digit.png)
 
