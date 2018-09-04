@@ -6,8 +6,7 @@ layout: home_layout
 
 ##### Testing...
 
-1.  Intro to [KNN](./page/knn)
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Introduction to k-nearest neighbors algorithm [KNN](./page/knn)
+2.  Build a simple Multi Layer Perceptron in Keras [MLP in Keras python](./page/mpl_keras)
 
-[>> Next](./page/1).
+[>> Next](#).
