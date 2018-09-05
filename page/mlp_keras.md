@@ -61,7 +61,7 @@ x_train = x_train.astype("float32") / 255
 x_test = x_test.astype("float32") / 255
 ```
 
-Convert single output unit to 10 Units. ( conver to categorical of class_size #10)
+Convert single output unit to 10 Units. ( convert y to categorical of class_size #10 )
 
 ```python
 num_classes = 10
@@ -74,6 +74,15 @@ Inspect the shape of y_train
 ```python
 print ( y_test.shape)
 # (10000, 10)
+```
+
+Hyper parameters
+
+```
+# Hyper parameters
+batch_size = 128
+num_classes = 10
+epochs = 20
 ```
 
 Finally, Lets Build the Model
