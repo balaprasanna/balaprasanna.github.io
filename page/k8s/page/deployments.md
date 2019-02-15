@@ -125,4 +125,4 @@ deployment "sise-deploy" deleted
 See also the [docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 for more options on deployments and when they are triggered.
 
-[Previous](/rcs) | [Next](/services)
+[Previous](/page/k8s/page/rcs) | [Next](/page/k8s/page/services)

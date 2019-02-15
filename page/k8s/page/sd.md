@@ -87,4 +87,4 @@ $ kubectl delete ns other
 
 Keep in mind that removing a namespace will destroy every resource inside.
 
-[Previous](/services) | [Next](/pf)
+[Previous](/page/k8s/page/services) | [Next](/page/k8s/page/pf)

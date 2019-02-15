@@ -91,4 +91,4 @@ Allocated resources:
 No events.
 ```
 
-[Previous](/jobs) | [Next](/api)
+[Previous](/page/k8s/page/jobs) | [Next](/page/k8s/page/api)

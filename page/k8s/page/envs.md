@@ -61,4 +61,4 @@ $ kubectl delete pod/envs
 In addition to the above provided environment variables, you can expose more using
 the [downward API](https://kubernetes.io/docs/user-guide/downward-api/).
 
-[Previous](/healthz) | [Next](/ns)
+[Previous](/page/k8s/page/healthz) | [Next](/page/k8s/page/ns)

@@ -59,4 +59,4 @@ You can remove both the pod and the secret with
 $ kubectl delete pod/consumesec secret/apikey
 ```
 
-[Previous](/volumes) | [Next](/logging)
+[Previous](/page/k8s/page/volumes) | [Next](/page/k8s/page/logging)

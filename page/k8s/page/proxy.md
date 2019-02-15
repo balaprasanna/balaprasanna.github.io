@@ -57,4 +57,4 @@ bindings                                                                        
 storageclasses                        sc             storage.k8s.io                 false        StorageClass
 ```
 
-[Previous](/nodes)
+[Previous](/page/k8s/page/nodes)

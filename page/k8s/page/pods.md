@@ -97,4 +97,4 @@ manually take care of keeping them running in case of a failure. A better way
 to supervise pods is to use [replication controllers](/rcs/), or even better
 [deployments](/deployments), giving you much more control.
 
-[Next](/labels)
+[Next](/page/k8s/page/labels)

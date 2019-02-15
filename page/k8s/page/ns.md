@@ -87,4 +87,4 @@ $ kubectl delete ns test
 If you're an admin, you might want to check out the [docs](https://kubernetes.io/docs/tasks/administer-cluster/namespaces/)
 for more info how to handle namespaces.
 
-[Previous](/envs) | [Next](/volumes)
+[Previous](/page/k8s/page/envs) | [Next](/page/k8s/page/volumes)

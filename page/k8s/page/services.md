@@ -143,4 +143,4 @@ $ kubectl delete svc simpleservice
 $ kubectl delete rc rcsise
 ```
 
-[Previous](/deployments) | [Next](/sd)
+[Previous](/page/k8s/page/deployments) | [Next](/page/k8s/page/sd)

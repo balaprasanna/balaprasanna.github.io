@@ -28,4 +28,4 @@ $ curl localhost:8080/info
 
 Remember that port forwarding is not meant for production traffic but for development and experimentation.
 
-[Previous](/sd) | [Next](/healthz)
+[Previous](/page/k8s/page/sd) | [Next](/page/k8s/page/healthz)

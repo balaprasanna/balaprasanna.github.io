@@ -53,4 +53,4 @@ replicationcontroller "rcex" deleted
 
 Note that, going forward, the RCs are called [replica sets](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/) (RS), supporting set-based selectors. The RS are already in use in the context of [deployments](/deployments/).
 
-[Previous](/labels) | [Next](/deployments)
+[Previous](/page/k8s/page/labels) | [Next](/page/k8s/page/deployments)
