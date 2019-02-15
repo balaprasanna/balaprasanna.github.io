@@ -11,6 +11,6 @@ layout: home_layout
 
 
 ##### New K8S Blog with examples
-1.[Welcome to K8S Tutorial](./page/k8s/_index.md)
+1.[Welcome to K8S Tutorial](./page/k8s/index)
 
 [>> Next](#).
