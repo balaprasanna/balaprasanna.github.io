@@ -1,9 +1,5 @@
-+++
-title = "Health Checks"
-subtitle = "Kubernetes health checks by example"
-date = "2017-04-25"
-url = "/healthz/"
-+++
+## "Health Checks"
+## "Kubernetes health checks by example"
 
 In order to verify if a container in a pod is healthy and ready to serve traffic,
 Kubernetes provides for a range of health checking mechanisms. Health checks,

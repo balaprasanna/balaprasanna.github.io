@@ -1,9 +1,5 @@
-+++
-title = "Environment Variables"
-subtitle = "Kubernetes environment variables by example"
-date = "2017-04-26"
-url = "/envs/"
-+++
+## "Environment Variables"
+## "Kubernetes environment variables by example"
 
 You can set environment variables for containers running in a pod and in
 addition, Kubernetes exposes certain runtime infos via environment variables

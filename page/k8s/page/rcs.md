@@ -1,9 +1,5 @@
-+++
-title = "Replication Controllers"
-subtitle = "Kubernetes replication controllers by example"
-date = "2017-04-25"
-url = "/rcs/"
-+++
+## "Replication Controllers"
+## "Kubernetes replication controllers by example"
 
 A replication controller (RC) is a supervisor for long-running pods.
 An RC will launch a specified number of pods called `replicas` and makes

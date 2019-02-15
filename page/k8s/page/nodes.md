@@ -1,9 +1,5 @@
-+++
-title = "Nodes"
-subtitle = "Kubernetes nodes by example"
-date = "2017-04-27"
-url = "/nodes/"
-+++
+## "Nodes"
+## "Kubernetes nodes by example"
 
 In Kubernetes, the nodes are the worker machines where your pods run.
 

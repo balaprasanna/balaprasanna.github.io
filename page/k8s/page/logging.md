@@ -1,9 +1,5 @@
-+++
-title = "Logging"
-subtitle = "Kubernetes logging by example"
-date = "2017-04-27"
-url = "/logging/"
-+++
+## "Logging"
+## "Kubernetes logging by example"
 
 Logging is one option to understand what is going on inside your applications
 and the cluster at large. Basic logging in Kubernetes makes the output a

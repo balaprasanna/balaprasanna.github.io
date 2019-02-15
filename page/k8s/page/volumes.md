@@ -1,9 +1,5 @@
-+++
-title = "Volumes"
-subtitle = "Kubernetes volumes by example"
-date = "2017-04-27"
-url = "/volumes/"
-+++
+## "Volumes"
+## "Kubernetes volumes by example"
 
 A Kubernetes volume is essentially a directory accessible to all containers
 running in a pod. In contrast to the container-local filesystem, the data in volumes is preserved across

@@ -1,9 +1,5 @@
-+++
-title = "Deployments"
-subtitle = "Kubernetes deployments by example"
-date = "2017-04-27"
-url = "/deployments/"
-+++
+## "Deployments"
+## "Kubernetes deployments by example"
 
 A deployment is a supervisor for [pods](/pods/) and [replica sets](/rcs/), giving you fine-grained control over how
 and when a new pod version is rolled out as well as rolled back to a previous state.

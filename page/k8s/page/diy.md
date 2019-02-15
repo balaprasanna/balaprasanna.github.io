@@ -1,9 +1,5 @@
-+++
-title = "DIY"
-subtitle = "Try out for yourself"
-date = "2017-04-24"
-url = "/diy/"
-+++
+## "DIY"
+## "Try out for yourself"
 
 If you want to try out the examples here yourself, you can use the same setup
 I've got locally running on my machine:

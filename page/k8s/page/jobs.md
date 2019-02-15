@@ -1,9 +1,5 @@
-+++
-title = "Jobs"
-subtitle = "Kubernetes jobs by example"
-date = "2017-04-27"
-url = "/jobs/"
-+++
+## "Jobs"
+## "Kubernetes jobs by example"
 
 A job is a supervisor for pods carrying out batch processes, that is,
 a process that runs for a certain time to completion, for example a calculation

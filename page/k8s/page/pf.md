@@ -1,9 +1,5 @@
-+++
-title = "Port Forward"
-subtitle = "Kubernetes port forward by example"
-date = "2019-02-12"
-url = "/pf/"
-+++
+## "Port Forward"
+## "Kubernetes port forward by example"
 
 In the context of developing apps on Kubernetes it is often useful to quickly access a service from your local environment without exposing it using, for example, a load balancer or an ingress resource. In this case you can use [port forwarding](https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/).
 

@@ -1,9 +1,5 @@
-+++
-title = "Service Discovery"
-subtitle = "Kubernetes service discovery by example"
-date = "2017-05-09"
-url = "/sd/"
-+++
+## "Service Discovery"
+## "Kubernetes service discovery by example"
 
 Service discovery is the process of figuring out how to connect to a [service](/service/).
 While there is a service discovery option based on [environment variables](https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/#environment-variables) available,

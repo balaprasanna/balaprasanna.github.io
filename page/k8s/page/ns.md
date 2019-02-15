@@ -1,9 +1,5 @@
-+++
-title = "Namespaces"
-subtitle = "Kubernetes namespaces by example"
-date = "2017-04-26"
-url = "/ns/"
-+++
+## "Namespaces"
+## "Kubernetes namespaces by example"
 
 Namespaces provide for a scope of Kubernetes objects. You can think of it
 as a workspace you're sharing with other users. Many objects such as pods and

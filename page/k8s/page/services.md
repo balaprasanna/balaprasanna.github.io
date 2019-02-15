@@ -1,9 +1,5 @@
-+++
-title = "Services"
-subtitle = "Kubernetes services by example"
-date = "2017-04-25"
-url = "/services/"
-+++
+## "Services"
+## "Kubernetes services by example"
 
 A service is an abstraction for pods, providing a stable, virtual IP (VIP) address.
 While pods may come and go, services allow clients to reliably connect to the

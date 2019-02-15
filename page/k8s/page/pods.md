@@ -1,9 +1,5 @@
-+++
-title = "Pods"
-subtitle = "Kubernetes pods by example"
-date = "2017-04-24"
-url = "/pods/"
-+++
+## "Pods"
+## "Kubernetes pods by example"
 
 A pod is a collection of containers sharing a network and mount namespace
 and is the basic unit of deployment in Kubernetes. All containers in a pod

@@ -1,9 +1,5 @@
-+++
-title = "Secrets"
-subtitle = "Kubernetes secrets by example"
-date = "2017-04-27"
-url = "/secrets/"
-+++
+## "Secrets"
+## "Kubernetes secrets by example"
 
 You don't want sensitive information such as a database password or an
 API key kept around in clear text. Secrets provide you with a mechanism

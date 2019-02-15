@@ -1,9 +1,5 @@
-+++
-title = "API Server access"
-subtitle = "Kubernetes API Server access by example"
-date = "2019-02-13"
-url = "/api/"
-+++
+## "API Server access"
+## "Kubernetes API Server access by example"
 
 Sometimes it's useful or necessary to directly [access the Kubernetes API server](https://kubernetes.io/docs/tasks/access-kubernetes-api/http-proxy-access-api/), for exploratory or testing purposes.
 
